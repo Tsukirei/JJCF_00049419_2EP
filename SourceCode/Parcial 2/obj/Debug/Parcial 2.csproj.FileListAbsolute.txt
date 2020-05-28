@@ -1,0 +1,38 @@
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Parcial_2.exe.config
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Parcial_2.exe
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Parcial_2.pdb
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial 2.csprojAssemblyReference.cache
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial 2.csproj.GenerateResource.cache
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.exe
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.pdb
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.exe.config
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.Form1.resources
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.frmcambiocontra.resources
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.frminicioadmin.resources
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.frminiciousuario.resources
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Npgsql.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Buffers.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Memory.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Text.Json.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.ValueTuple.dll
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Npgsql.pdb
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\Npgsql.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Buffers.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Memory.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Text.Json.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\bin\Debug\System.ValueTuple.xml
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial 2.csproj.CopyComplete
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.frmtablaus.resources
+C:\Users\julio\Desktop\universidad\POO\Parcial 2\JJCF_00049419_2EP\SourceCode\Parcial 2\obj\Debug\Parcial_2.frmtableadmin.resources
